@@ -9,13 +9,13 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Ingeniero Geofisico Egresado del IPN
+> Mis Cosas Favoritas son el deporte y la Tecnologia
+> Siempre intento estar actualizado en cuanto a informacion nueva de tecnologia.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Un poco sobre mi** Me gusta mucho el futbol y mis equipos de futbol favoritos son 
+el Bayern München y las chivas, en cuanto a tecnologia siempre me han gustado los procesadore Intel
+ademas de las computadoras hp.
+Me gusta estar constantemente seguir aprendiendo cosas nuevas y por eso la programacion siempre me llamo la atencion y me gusta lo que se puede hacer 
+con ello.
 
