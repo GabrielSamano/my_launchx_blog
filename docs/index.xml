@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Gabriel Samano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielsamano.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielsamano.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola!
+Quiero contar mi experiencia con todo lo que he aprendido en este viaje:
+ Lenguajes de Programacion como: Python Java Java Script Diseño web con Html y Css  Todo lo anterior lo he aprendido en este viaje con la ayuda de los Mission Comanders en el Onboarding y en la parte de Frontend La parte que mas se me dificulto es cuando llegamos a utilizar el framework Node.js y vue para recrear una pagina pero ahora meter los contenidos en acciones Me ha gustado mucho como te ayudan tanto los profesionales en esteos temas al igual que los compañeros se apoyan uno al otro.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://gabrielsamano.github.io/my_launchx_blog/pages/about/</link>
