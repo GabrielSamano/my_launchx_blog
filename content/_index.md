@@ -9,9 +9,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para el curso son:
 
--Aprender Git y Github
--Demostrar mis conocimientos de Front-end
--Aprender a diseñar en Backend
--Comprender la estrcutura de los datos en la programacion
+- Aprender Git y Github
+- Demostrar mis conocimientos de Front-end
+- Aprender a diseñar en Backend
+- Comprender la estrcutura de los datos en la programacion
 
 🚀
