@@ -13,4 +13,4 @@ En mi perspectiva los valores de un profesional de software se basa en:
 - Tolerancia
 - Honestidad
 
-Para mi estos son los valores mas importantes tanto en una persona como en un profesional.
+Para mi estos son los valores mas importantes en un profesional.
