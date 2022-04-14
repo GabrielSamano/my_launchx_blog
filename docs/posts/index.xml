@@ -29,5 +29,14 @@ Quiero contar mi experiencia con todo lo que he aprendido en este viaje:
  Lenguajes de Programacion como: Python Java Java Script Diseño web con Html y Css  Todo lo anterior lo he aprendido en este viaje con la ayuda de los Mission Comanders en el Onboarding y en la parte de Frontend La parte que mas se me dificulto es cuando llegamos a utilizar el framework Node.js y vue para recrear una pagina pero ahora meter los contenidos en acciones Me ha gustado mucho como te ayudan tanto los profesionales en esteos temas al igual que los compañeros se apoyan uno al otro.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>title: &amp;ldquo;La travesia en este viaje Comienza&amp;rdquo; date: 2022-04-14 description: &amp;lsquo;La primer semana de BackEnd&amp;rsquo;</description>
+    </item>
+    
   </channel>
 </rss>
