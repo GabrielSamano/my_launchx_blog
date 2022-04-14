@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gabrielsamano.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Primer Semana</title>
+      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Les contare un poco acerca de lo que he aprendido en la primer semana de este vaije con Node Js. El lenguaje de Java Script solo concia un poco la verdad antes de entrar a Launch X , pero ahora que he visto solo una parte de lo importante que es solo puedo ponerme a pensar, Con el mission comander nos da la informacion necesaria para poder entender el transfondo de este lenguaje de programacion.</description>
+    </item>
+    
+    <item>
       <title>La Cultura en el Desarrollad@r de Software</title>
       <link>https://gabrielsamano.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Thu, 07 Apr 2022 18:16:21 -0600</pubDate>
@@ -27,15 +36,6 @@ En mi perspectiva los valores de un profesional de software se basa en:
       <description>Hola!
 Quiero contar mi experiencia con todo lo que he aprendido en este viaje:
  Lenguajes de Programacion como: Python Java Java Script Diseño web con Html y Css  Todo lo anterior lo he aprendido en este viaje con la ayuda de los Mission Comanders en el Onboarding y en la parte de Frontend La parte que mas se me dificulto es cuando llegamos a utilizar el framework Node.js y vue para recrear una pagina pero ahora meter los contenidos en acciones Me ha gustado mucho como te ayudan tanto los profesionales en esteos temas al igual que los compañeros se apoyan uno al otro.</description>
-    </item>
-    
-    <item>
-      <title>Primer Semana</title>
-      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Les contare un poco acerca de lo que he aprendido en la primer semana de este vaije con Node Js. El lenguaje de Java Script solo concia un poco la verdad antes de entrar a Launch X , pero ahora que he visto solo una parte de lo importante que es solo puedo ponerme a pensar, Con el mission comander nos da la informacion necesaria para poder entender el transfondo de este lenguaje de programacion.</description>
     </item>
     
   </channel>
