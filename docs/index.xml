@@ -30,15 +30,6 @@ Quiero contar mi experiencia con todo lo que he aprendido en este viaje:
     </item>
     
     <item>
-      <title></title>
-      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>title: &amp;ldquo;La travesia en este viaje Comienza&amp;rdquo; date: 2022-04-14 description: &amp;lsquo;La primer semana de BackEnd&amp;rsquo;</description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://gabrielsamano.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,6 +38,15 @@ Quiero contar mi experiencia con todo lo que he aprendido en este viaje:
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Soy Ingeniero Geofisico Egresado del IPN Mis Cosas Favoritas son el deporte y la Tecnologia Siempre intento estar actualizado en cuanto a informacion nueva de tecnologia.
  Un poco sobre mi Me gusta mucho el futbol y mis equipos de futbol favoritos son el Bayern München y las chivas, en cuanto a tecnologia siempre me han gustado los procesadore Intel ademas de las computadoras hp.</description>
+    </item>
+    
+    <item>
+      <title>Primer Semana</title>
+      <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Les contare un poco acerca de lo que he aprendido en la primer semana de este vaije con Node Js. El lenguaje de Java Script solo concia un poco la verdad antes de entrar a Launch X , pero ahora que he visto solo una parte de lo importante que es solo puedo ponerme a pensar, Con el mission comander nos da la informacion necesaria para poder entender el transfondo de este lenguaje de programacion.</description>
     </item>
     
   </channel>
