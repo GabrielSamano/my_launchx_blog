@@ -1,6 +1,6 @@
 ---
 title: "Primer Semana"
-date: 2022-04-010
+date: 2022-04-10
 description: 'Resumen de lo que he aprendido'
 ---
 
