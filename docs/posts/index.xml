@@ -10,10 +10,11 @@
     <item>
       <title>La Importancia de las Pruebas en el desarrollo de Software</title>
       <link>https://gabrielsamano.github.io/my_launchx_blog/posts/post_4/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielsamano.github.io/my_launchx_blog/posts/post_4/</guid>
-      <description>Hola en esta ocasion quiero compartir un poco de mi opinion acerca de las pruebas en el desarrolo de software</description>
+      <description>Hola en esta ocasion quiero compartir un poco de mi opinion acerca de las pruebas en el desarrolo de software.
+Las Pruebas de unidad se realizan para corroborar que se esta haciendo en el proyecto y ademas de ver que nos falta por hacer, todo tiene un porque y las pruebas nos ayudan a ir en un control de software bueno ya que si hay algun error lo podemos observar, por eso las pruebas son importantes en todos los proyectos y no son negociables si una empresa no realiza pruebas entonces es red flag.</description>
     </item>
     
     <item>
